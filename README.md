@@ -28,7 +28,7 @@
 
 ## How To Use
 
-You can build the project using Xcode ad use it as you wish.
+You can build the project using Xcode and use it as you wish.
 
 
 ## Credits
