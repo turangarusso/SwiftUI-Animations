@@ -39,7 +39,10 @@ For educational purposes
 
 ## License
 
-MIT
+DMCA [Protection Certificate](https://www.dmca.com/r/r2jxz48)
+
+![AnimDMCA](https://github.com/turangarusso/SwiftUI-Animations/assets/113531412/175a2640-7d4f-4ded-b18f-d98a0c233237)
+
 
 ---
 
